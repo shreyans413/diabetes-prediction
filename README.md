@@ -1,6 +1,6 @@
 # Diabetes Prediction using Machine Learning (MATLAB)
 
-> 🎓 A course project for **MC106 - MATLAB Programming** at [Your College Name], submitted by **Shreyans Jain (24/B06/040)**.
+> 🎓 A course project for **MC106 - MATLAB Programming** at Delhi Technological University (DTU), submitted by **Shreyans Jain (24/B06/040)**.
 
 This project uses the **Pima Indians Diabetes Dataset** from Kaggle to build and evaluate machine learning models that predict whether a person is likely to have diabetes based on diagnostic measurements.
 
